@@ -1,3 +1,5 @@
+<!-- Copyright (c) 2025 Robotics and AI Institute LLC dba RAI Institute. All rights reserved. -->
+
 ## proto2ros (jazzy) - 1.0.1-1
 
 The packages in the `proto2ros` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy proto2ros --edit` on `Wed, 12 Nov 2025 20:24:03 -0000`
