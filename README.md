@@ -9,7 +9,7 @@ These packages were explicitly ignored:
 
 Version of package(s) in repository `proto2ros`:
 
-- upstream repository: https://github.com/bdaiinstitute/proto2ros.git
+- upstream repository: https://github.com/rai-opensource/proto2ros.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `null`
@@ -35,8 +35,8 @@ These packages were explicitly ignored:
 
 Version of package(s) in repository `proto2ros`:
 
-- upstream repository: https://github.com/bdaiinstitute/proto2ros.git
-- release repository: https://github.com/bdaiinstitute/proto2ros-release.git
+- upstream repository: https://github.com/rai-opensource/proto2ros.git
+- release repository: https://github.com/rai-opensource/proto2ros-release.git
 - rosdistro version: `1.0.0-3`
 - old version: `1.0.0-3`
 - new version: `1.0.1-1`
@@ -61,7 +61,7 @@ These packages were explicitly ignored:
 
 Version of package(s) in repository `proto2ros`:
 
-- upstream repository: https://github.com/bdaiinstitute/proto2ros.git
+- upstream repository: https://github.com/rai-opensource/proto2ros.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `1.0.0-2`
@@ -86,7 +86,7 @@ These packages were released:
 
 Version of package(s) in repository `proto2ros`:
 
-- upstream repository: https://github.com/bdaiinstitute/proto2ros.git
+- upstream repository: https://github.com/rai-opensource/proto2ros.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `1.0.0-1`
@@ -111,7 +111,7 @@ These packages were released:
 
 Version of package(s) in repository `proto2ros`:
 
-- upstream repository: https://github.com/bdaiinstitute/proto2ros.git
+- upstream repository: https://github.com/rai-opensource/proto2ros.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `null`

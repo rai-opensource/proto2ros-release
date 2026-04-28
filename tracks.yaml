@@ -23,7 +23,7 @@ tracks:
     release_tag: :{version}
     ros_distro: humble
     vcs_type: git
-    vcs_uri: https://github.com/bdaiinstitute/proto2ros.git
+    vcs_uri: https://github.com/rai-opensource/proto2ros.git
     version: :{auto}
   jazzy:
     actions:
@@ -49,5 +49,5 @@ tracks:
     release_tag: :{version}
     ros_distro: jazzy
     vcs_type: git
-    vcs_uri: https://github.com/bdaiinstitute/proto2ros.git
+    vcs_uri: https://github.com/rai-opensource/proto2ros.git
     version: :{auto}
