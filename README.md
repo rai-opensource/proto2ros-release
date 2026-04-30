@@ -1,3 +1,29 @@
+## proto2ros (humble) - 1.0.1-2
+
+The packages in the `proto2ros` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble proto2ros` on `Thu, 30 Apr 2026 19:13:59 -0000`
+
+The `proto2ros` package was released.
+
+These packages were explicitly ignored:
+- `proto2ros_tests`
+
+Version of package(s) in repository `proto2ros`:
+
+- upstream repository: https://github.com/rai-opensource/proto2ros.git
+- release repository: https://github.com/bdaiinstitute/proto2ros-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.1-1`
+- new version: `1.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.14.2`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## proto2ros (jazzy) - 1.0.1-1
 
 The packages in the `proto2ros` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy proto2ros --edit` on `Wed, 12 Nov 2025 20:24:03 -0000`
